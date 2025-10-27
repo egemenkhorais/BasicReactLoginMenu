@@ -24,7 +24,7 @@ const LoginForm = () => {
                 <button type="submit">Giriş</button>
 
                 <div className="register-link">
-                    <p>Hesabın mı yok? <a href="#">Kaydol.</a></p>
+                    <p>Hesabın yok mu? <a href="#">Kaydol.</a></p>
                 </div>
             </form>
         </div>
